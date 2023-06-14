@@ -14,4 +14,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ![Screenshot of the deployed website]
-(https://hadiqaaziz.github.io/module_1_assignment/index.html)
+(https://hadiqaaziz.github.io/Module_1_assignment/)
